@@ -9,11 +9,11 @@
 
 
 
-@import "styles/videoCarousel.css";
-@import "styles/about.css";
-@import "styles/respons.css";
-@import "styles/header.css";
-@import "styles/navForPoxod.css";
+@import "stiles/videoCarousel.css";
+@import "stiles/about.css";
+@import "stiles/respons.css";
+@import "stiles/header.css";
+@import "stiles/navForPoxod.css";
 @import "/styles/contactFormSection.css";
 @import "/styles/fotoFromBento.css";
 @import "/styles/footer.css";
